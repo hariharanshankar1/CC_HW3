@@ -1,0 +1,422 @@
+Start all benchmarks in default settings...
+first iteration
+            
+Number of threads: 1
+File size: 10g
+Record size: 4k
+Workload: 2
+time in seconds: 107.000000
+throughput: 93.45797
+latency: 22816.88785
+Total_file_size: 10000003072
+second iteration
+            
+Number of threads: 1
+File size: 10g
+Record size: 4k
+Workload: 2
+time in seconds: 103.000000
+throughput: 97.08741
+latency: 23702.98058
+Total_file_size: 10000003072
+thrid iteration
+            
+Number of threads: 1
+File size: 10g
+Record size: 4k
+Workload: 2
+time in seconds: 105.000000
+throughput: 95.23812
+latency: 23251.49524
+Total_file_size: 10000003072
+first iteration
+            
+Number of threads: 2
+File size: 5g
+Record size: 4k
+Workload: 2
+time in seconds: 55.000000
+throughput: 181.81831
+latency: 44389.23636
+Total_file_size: 10000007168
+second iteration
+            
+Number of threads: 2
+File size: 5g
+Record size: 4k
+Workload: 2
+time in seconds: 56.000000
+throughput: 178.57156
+latency: 43596.57143
+Total_file_size: 10000007168
+thrid iteration
+            
+Number of threads: 2
+File size: 5g
+Record size: 4k
+Workload: 2
+time in seconds: 56.000000
+throughput: 178.57156
+latency: 43596.57143
+Total_file_size: 10000007168
+first iteration
+            
+Number of threads: 4
+File size: 2.5g
+Record size: 4k
+Workload: 2
+time in seconds: 33.000000
+throughput: 242.42461
+latency: 59185.69697
+Total_file_size: 8000012288
+second iteration
+            
+Number of threads: 4
+File size: 2.5g
+Record size: 4k
+Workload: 2
+time in seconds: 34.000000
+throughput: 235.29448
+latency: 57444.94118
+Total_file_size: 8000012288
+thrid iteration
+            
+Number of threads: 4
+File size: 2.5g
+Record size: 4k
+Workload: 2
+time in seconds: 33.000000
+throughput: 242.42461
+latency: 59185.69697
+Total_file_size: 8000012288
+first iteration
+            
+Number of threads: 8
+File size: 1.25g
+Record size: 4k
+Workload: 2
+time in seconds: 28.000000
+throughput: 285.71472
+latency: 69754.57143
+Total_file_size: 8000012288
+second iteration
+            
+Number of threads: 8
+File size: 1.25g
+Record size: 4k
+Workload: 2
+time in seconds: 29.000000
+throughput: 275.86249
+latency: 67349.24138
+Total_file_size: 8000012288
+thrid iteration
+            
+Number of threads: 8
+File size: 1.25g
+Record size: 4k
+Workload: 2
+time in seconds: 29.000000
+throughput: 275.86249
+latency: 67349.24138
+Total_file_size: 8000012288
+first iteration
+            
+Number of threads: 12
+File size: 833.33m
+Record size: 4k
+Workload: 2
+time in seconds: 37.000000
+throughput: 270.16330
+latency: 65957.83784
+Total_file_size: 9996042240
+second iteration
+            
+Number of threads: 12
+File size: 833.33m
+Record size: 4k
+Workload: 2
+time in seconds: 38.000000
+throughput: 263.05374
+latency: 64222.10526
+Total_file_size: 9996042240
+thrid iteration
+            
+Number of threads: 12
+File size: 833.33m
+Record size: 4k
+Workload: 2
+time in seconds: 42.000000
+throughput: 238.00101
+latency: 58105.71429
+Total_file_size: 9996042240
+first iteration
+            
+Number of threads: 24
+File size: 416.67m
+Record size: 4k
+Workload: 2
+time in seconds: 46.000000
+throughput: 217.04455
+latency: 52989.39130
+Total_file_size: 9984049152
+second iteration
+            
+Number of threads: 24
+File size: 416.67m
+Record size: 4k
+Workload: 2
+time in seconds: 56.000000
+throughput: 178.28659
+latency: 43527.00000
+Total_file_size: 9984049152
+thrid iteration
+            
+Number of threads: 24
+File size: 416.67m
+Record size: 4k
+Workload: 2
+time in seconds: 63.000000
+throughput: 158.47697
+latency: 38690.66667
+Total_file_size: 9984049152
+first iteration
+            
+Number of threads: 48
+File size: 208.33m
+Record size: 4k
+Workload: 2
+time in seconds: 64.000000
+throughput: 156.00230
+latency: 38086.50000
+Total_file_size: 9984147456
+second iteration
+            
+Number of threads: 48
+File size: 208.33m
+Record size: 4k
+Workload: 2
+time in seconds: 65.000000
+throughput: 153.60227
+latency: 37500.55385
+Total_file_size: 9984147456
+thrid iteration
+            
+Number of threads: 48
+File size: 208.33m
+Record size: 4k
+Workload: 2
+time in seconds: 69.000000
+throughput: 144.69779
+latency: 35326.60870
+Total_file_size: 9984147456
+first iteration
+            
+Number of threads: 1
+File size: 10g
+Record size: 4k
+Workload: 3
+time in seconds: 287.000000
+throughput: 34.84322
+latency: 8506.64460
+Total_file_size: 10000003072
+second iteration
+            
+Number of threads: 1
+File size: 10g
+Record size: 4k
+Workload: 3
+time in seconds: 285.000000
+throughput: 35.08773
+latency: 8566.34035
+Total_file_size: 10000003072
+thrid iteration
+            
+Number of threads: 1
+File size: 10g
+Record size: 4k
+Workload: 3
+time in seconds: 287.000000
+throughput: 34.84322
+latency: 8506.64460
+Total_file_size: 10000003072
+first iteration
+            
+Number of threads: 2
+File size: 5g
+Record size: 4k
+Workload: 3
+time in seconds: 151.000000
+throughput: 66.22521
+latency: 16168.26490
+Total_file_size: 10000007168
+second iteration
+            
+Number of threads: 2
+File size: 5g
+Record size: 4k
+Workload: 3
+time in seconds: 152.000000
+throughput: 65.78952
+latency: 16061.89474
+Total_file_size: 10000007168
+thrid iteration
+            
+Number of threads: 2
+File size: 5g
+Record size: 4k
+Workload: 3
+time in seconds: 150.000000
+throughput: 66.66671
+latency: 16276.05333
+Total_file_size: 10000007168
+first iteration
+            
+Number of threads: 4
+File size: 2.5g
+Record size: 4k
+Workload: 3
+time in seconds: 67.000000
+throughput: 119.40317
+latency: 29151.16418
+Total_file_size: 8000012288
+second iteration
+            
+Number of threads: 4
+File size: 2.5g
+Record size: 4k
+Workload: 3
+time in seconds: 67.000000
+throughput: 119.40317
+latency: 29151.16418
+Total_file_size: 8000012288
+thrid iteration
+            
+Number of threads: 4
+File size: 2.5g
+Record size: 4k
+Workload: 3
+time in seconds: 66.000000
+throughput: 121.21231
+latency: 29592.84848
+Total_file_size: 8000012288
+first iteration
+            
+Number of threads: 8
+File size: 1.25g
+Record size: 4k
+Workload: 3
+time in seconds: 39.000000
+throughput: 205.12852
+latency: 50080.20513
+Total_file_size: 8000012288
+second iteration
+            
+Number of threads: 8
+File size: 1.25g
+Record size: 4k
+Workload: 3
+time in seconds: 39.000000
+throughput: 205.12852
+latency: 50080.20513
+Total_file_size: 8000012288
+thrid iteration
+            
+Number of threads: 8
+File size: 1.25g
+Record size: 4k
+Workload: 3
+time in seconds: 40.000000
+throughput: 200.00031
+latency: 48828.20000
+Total_file_size: 8000012288
+first iteration
+            
+Number of threads: 12
+File size: 833.33m
+Record size: 4k
+Workload: 3
+time in seconds: 39.000000
+throughput: 256.30878
+latency: 62575.38462
+Total_file_size: 9996042240
+second iteration
+            
+Number of threads: 12
+File size: 833.33m
+Record size: 4k
+Workload: 3
+time in seconds: 41.000000
+throughput: 243.80591
+latency: 59522.92683
+Total_file_size: 9996042240
+thrid iteration
+            
+Number of threads: 12
+File size: 833.33m
+Record size: 4k
+Workload: 3
+time in seconds: 39.000000
+throughput: 256.30878
+latency: 62575.38462
+Total_file_size: 9996042240
+first iteration
+            
+Number of threads: 24
+File size: 416.67m
+Record size: 4k
+Workload: 3
+time in seconds: 36.000000
+throughput: 277.33470
+latency: 67708.66667
+Total_file_size: 9984049152
+second iteration
+            
+Number of threads: 24
+File size: 416.67m
+Record size: 4k
+Workload: 3
+time in seconds: 36.000000
+throughput: 277.33470
+latency: 67708.66667
+Total_file_size: 9984049152
+thrid iteration
+            
+Number of threads: 24
+File size: 416.67m
+Record size: 4k
+Workload: 3
+time in seconds: 37.000000
+throughput: 269.83917
+latency: 65878.70270
+Total_file_size: 9984049152
+first iteration
+            
+Number of threads: 48
+File size: 208.33m
+Record size: 4k
+Workload: 3
+time in seconds: 30.000000
+throughput: 332.80492
+latency: 81251.20000
+Total_file_size: 9984147456
+second iteration
+            
+Number of threads: 48
+File size: 208.33m
+Record size: 4k
+Workload: 3
+time in seconds: 29.000000
+throughput: 344.28095
+latency: 84052.96552
+Total_file_size: 9984147456
+thrid iteration
+            
+Number of threads: 48
+File size: 208.33m
+Record size: 4k
+Workload: 3
+time in seconds: 30.000000
+throughput: 332.80492
+latency: 81251.20000
+Total_file_size: 9984147456
+Done with this...
